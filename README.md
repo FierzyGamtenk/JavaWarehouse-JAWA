@@ -1,0 +1,1 @@
+Jadi, saya telah membuat sebuah file Java yang mengimplementasikan fungsi-fungsi CRUD (Create, Read, Update, Delete) untuk manajemen gudang. Anda dapat menggunakan kode ini dalam proyek atau aplikasi Anda. Silakan gunakan sebagai referensi atau integrasikan ke dalam file Anda sendiri sesuai kebutuhan.

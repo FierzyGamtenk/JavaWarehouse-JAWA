@@ -1,0 +1,6 @@
+Laptop,101,10,5000.0,Elektronik
+Printer,102,5,1200.0,Elektronik
+Meja,103,20,300.0,Perabotan
+Kamera,104,8,1800.0,Elektronik
+Buku,105,50,20.0,Stationery
+tv,202,10,2000.0,bokep
